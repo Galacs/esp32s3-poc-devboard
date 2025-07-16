@@ -2589,6 +2589,17 @@
 		)
 		(uuid "032fdbf6-c8c6-46e2-9b3c-809aba602add")
 	)
+	(text "Notes:\n- Pi sur VBUS"
+		(exclude_from_sim no)
+		(at 16.002 16.764 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8f5cae3a-eecc-44e0-9e87-d50e2fc984c1")
+	)
 	(text "XC6206 3.3v"
 		(exclude_from_sim no)
 		(at 28.702 124.46 0)
