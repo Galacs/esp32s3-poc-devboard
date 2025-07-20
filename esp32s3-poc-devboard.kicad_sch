@@ -8097,16 +8097,6 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 63.5) (xy 271.78 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8fff2bc6-bb97-4119-8188-282ef5851722")
-	)
-	(wire
-		(pts
 			(xy 111.76 48.26) (xy 111.76 45.72)
 		)
 		(stroke
@@ -8507,7 +8497,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 63.5) (xy 262.89 63.5)
+			(xy 261.62 63.5) (xy 271.78 63.5)
 		)
 		(stroke
 			(width 0)
@@ -14338,74 +14328,6 @@
 			(project "esp32s3-poc-devboard"
 				(path "/a6beb550-83d0-4746-bc61-cde76b7466a3"
 					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 266.7 63.5 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9042ab45-38df-49d0-a35b-4bcdf23d0d55")
-		(property "Reference" "R11"
-			(at 266.7 65.786 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "470"
-			(at 266.7 63.5 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 266.7 61.722 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 266.7 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 266.7 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "630f884f-a4db-4539-8439-67aba1c5b655")
-		)
-		(pin "1"
-			(uuid "350128e7-3b04-44c1-894f-ea8e41ec5c54")
-		)
-		(instances
-			(project "esp32s3-poc-devboard"
-				(path "/a6beb550-83d0-4746-bc61-cde76b7466a3"
-					(reference "R11")
 					(unit 1)
 				)
 			)
