@@ -13875,6 +13875,16 @@
 		)
 		(uuid "499a4f8d-84b4-4c8a-aa10-02ffee7a9571")
 	)
+	(label "RF"
+		(at 186.69 60.96 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+			)
+			(justify left bottom)
+		)
+		(uuid "5e32b43e-9dd5-4d40-9a8f-31cb49cccbff")
+	)
 	(label "XTAL_32K_P"
 		(at 83.82 24.13 0)
 		(effects
@@ -13894,6 +13904,16 @@
 			(justify left bottom)
 		)
 		(uuid "b334caea-e42a-4474-b54c-484b9bbb59ff")
+	)
+	(label "RF_ANT"
+		(at 160.02 60.96 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+			)
+			(justify left bottom)
+		)
+		(uuid "c06f5973-c6d1-4988-b199-6da5c463ecb6")
 	)
 	(label "XTAL_N"
 		(at 80.01 24.13 180)
