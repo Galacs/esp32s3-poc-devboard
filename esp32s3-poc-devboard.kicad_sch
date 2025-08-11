@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "a6beb550-83d0-4746-bc61-cde76b7466a3")
 	(paper "A4")
+	(title_block
+		(title "ESP32-S3 POC/Devboard")
+		(date "2025-08-11")
+		(rev "01")
+		(company "Rémi Ait-Younes")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
 			(pin_names
