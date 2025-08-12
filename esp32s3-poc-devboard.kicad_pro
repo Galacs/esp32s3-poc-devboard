@@ -545,7 +545,9 @@
     "meta": {
       "version": 4
     },
-    "net_colors": null,
+    "net_colors": {
+      "Net-(U1-U0TXD{slash}PROG{slash}GPIO43)": "rgb(22, 5, 255)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": [
       {
