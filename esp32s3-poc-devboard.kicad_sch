@@ -14155,6 +14155,16 @@
 		)
 		(uuid "e69e067c-ef8a-4544-aae1-58c0a72ed95e")
 	)
+	(label "XTAL_PL"
+		(at 63.5 24.13 90)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "e91671c1-6520-424b-a69a-9097f99c0fa8")
+	)
 	(global_label "GPIO29"
 		(shape input)
 		(at 127 31.75 180)
