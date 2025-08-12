@@ -10167,6 +10167,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 119.38) (xy 167.64 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a6d087a-c348-4a7c-94ce-653210e24ee3")
+	)
+	(wire
+		(pts
 			(xy 193.04 127) (xy 190.5 127)
 		)
 		(stroke
@@ -10514,16 +10524,6 @@
 			(type default)
 		)
 		(uuid "1cbc5c90-a03c-4113-a2d0-9ae4908054a4")
-	)
-	(wire
-		(pts
-			(xy 168.91 134.62) (xy 168.91 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ce2baa5-ae5a-432c-8b2e-f48e8f786343")
 	)
 	(wire
 		(pts
@@ -11044,6 +11044,16 @@
 			(type default)
 		)
 		(uuid "3a8496ec-a2ea-4e1a-abd9-f327a9c186b0")
+	)
+	(wire
+		(pts
+			(xy 168.91 119.38) (xy 168.91 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a8fad22-988d-4bae-b1cb-7d1f61011fb1")
 	)
 	(wire
 		(pts
@@ -12364,16 +12374,6 @@
 			(type default)
 		)
 		(uuid "8f5d2028-094d-49b9-bd3b-be96bdb50fcb")
-	)
-	(wire
-		(pts
-			(xy 168.91 134.62) (xy 167.64 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ffe29ea-2ae0-4017-b5f2-56d9ff4ba3f8")
 	)
 	(wire
 		(pts
@@ -21005,7 +21005,6 @@
 	(symbol
 		(lib_id "Power_Protection:USBLC6-2SC6")
 		(at 41.91 63.5 0)
-		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21013,7 +21012,7 @@
 		(dnp no)
 		(uuid "650e294a-8d4b-499e-b982-57243fc1f117")
 		(property "Reference" "U6"
-			(at 36.576 68.326 0)
+			(at 47.244 68.326 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21022,7 +21021,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 39.624 70.612 0)
+			(at 44.196 70.612 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21031,7 +21030,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
-			(at 40.64 69.85 0)
+			(at 43.18 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21042,7 +21041,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
-			(at 40.64 71.755 0)
+			(at 43.18 71.755 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25350,16 +25349,16 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x06")
-		(at 162.56 129.54 180)
+		(at 162.56 124.46 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a1cc8b4c-5b6a-42ee-bf71-8bed628fa2cf")
 		(property "Reference" "J5"
-			(at 162.56 118.11 0)
+			(at 162.56 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25367,7 +25366,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x06"
-			(at 162.56 118.11 0)
+			(at 162.56 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25376,7 +25375,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-06P_1x06_P5.00mm"
-			(at 162.56 129.54 0)
+			(at 162.56 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25385,7 +25384,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 162.56 129.54 0)
+			(at 162.56 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25394,7 +25393,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 162.56 129.54 0)
+			(at 162.56 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25403,7 +25402,7 @@
 			)
 		)
 		(property "JLCPCB Part Number" ""
-			(at 162.56 129.54 0)
+			(at 162.56 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25412,7 +25411,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 162.56 129.54 0)
+			(at 162.56 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25421,7 +25420,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
-			(at 162.56 129.54 0)
+			(at 162.56 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25430,7 +25429,7 @@
 			)
 		)
 		(property "Basic" ""
-			(at 162.56 129.54 0)
+			(at 162.56 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
