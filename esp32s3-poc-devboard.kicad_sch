@@ -18638,7 +18638,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 100.33 32.258 90)
 			(effects
 				(font
