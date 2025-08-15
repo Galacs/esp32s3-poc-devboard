@@ -702,10 +702,10 @@
           "show": false
         },
         {
-          "group_by": false,
-          "label": "JLCPCB Part Number",
-          "name": "JLCPCB Part Number",
-          "show": false
+          "group_by": true,
+          "label": "JLCPCB Part #",
+          "name": "JLCPCB Part #",
+          "show": true
         },
         {
           "group_by": false,
@@ -718,8 +718,8 @@
       "group_symbols": true,
       "include_excluded_from_bom": false,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Basic"
+      "sort_asc": false,
+      "sort_field": "JLCPCB Part #"
     },
     "connection_grid_size": 50.0,
     "drawing": {

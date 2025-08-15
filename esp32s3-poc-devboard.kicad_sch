@@ -14974,15 +14974,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C393939"
-			(at 135.89 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Shou HAN"
 			(at 135.89 63.5 0)
 			(effects
@@ -15002,6 +14993,15 @@
 			)
 		)
 		(property "Basic" "X"
+			(at 135.89 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C393939"
 			(at 135.89 63.5 0)
 			(effects
 				(font
@@ -15182,15 +15182,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23186"
-			(at 172.72 91.44 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 172.72 91.44 90)
 			(effects
@@ -15210,6 +15201,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 172.72 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 172.72 91.44 90)
 			(effects
 				(font
@@ -15285,15 +15285,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23186"
-			(at 118.11 55.88 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 118.11 55.88 90)
 			(effects
@@ -15313,6 +15304,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 118.11 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 118.11 55.88 90)
 			(effects
 				(font
@@ -15453,15 +15453,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23186"
-			(at 68.58 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 68.58 140.97 0)
 			(effects
@@ -15481,6 +15472,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 68.58 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 68.58 140.97 0)
 			(effects
 				(font
@@ -15688,15 +15688,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C15525"
-			(at 102.87 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 102.87 50.8 0)
 			(effects
@@ -15716,6 +15707,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 102.87 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15525"
 			(at 102.87 50.8 0)
 			(effects
 				(font
@@ -15793,15 +15793,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C76899"
-			(at 175.26 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Murata"
 			(at 175.26 67.31 0)
 			(effects
@@ -15821,6 +15812,15 @@
 			)
 		)
 		(property "Basic" "X"
+			(at 175.26 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C76899"
 			(at 175.26 67.31 0)
 			(effects
 				(font
@@ -15899,15 +15899,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C307331"
-			(at 124.46 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 124.46 106.68 0)
 			(effects
@@ -15927,6 +15918,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 124.46 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C307331"
 			(at 124.46 106.68 0)
 			(effects
 				(font
@@ -16078,15 +16078,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C2290"
-			(at 68.58 132.08 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Hubei KENTO Elec "
 			(at 68.58 132.08 90)
 			(effects
@@ -16106,6 +16097,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 68.58 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2290"
 			(at 68.58 132.08 90)
 			(effects
 				(font
@@ -16185,15 +16185,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C15849"
-			(at 55.88 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 55.88 140.97 0)
 			(effects
@@ -16213,6 +16204,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 55.88 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15849"
 			(at 55.88 140.97 0)
 			(effects
 				(font
@@ -16423,15 +16423,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C393939"
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Shou HAN"
 			(at 69.85 63.5 0)
 			(effects
@@ -16451,6 +16442,15 @@
 			)
 		)
 		(property "Basic" "X"
+			(at 69.85 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C393939"
 			(at 69.85 63.5 0)
 			(effects
 				(font
@@ -16558,15 +16558,6 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 27.94 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part Number" ""
 			(at 27.94 27.94 0)
 			(effects
 				(font
@@ -16735,15 +16726,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C21189"
-			(at 41.91 90.17 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 41.91 90.17 90)
 			(effects
@@ -16763,6 +16745,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 41.91 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C21189"
 			(at 41.91 90.17 90)
 			(effects
 				(font
@@ -16906,15 +16897,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23241"
-			(at 172.72 101.6 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 172.72 101.6 90)
 			(effects
@@ -16934,6 +16916,15 @@
 			)
 		)
 		(property "Basic" "P"
+			(at 172.72 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23241"
 			(at 172.72 101.6 90)
 			(effects
 				(font
@@ -17018,15 +17009,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C2297"
-			(at 53.34 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Hubei KENTO Elec "
 			(at 53.34 125.73 0)
 			(effects
@@ -17046,6 +17028,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 53.34 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2297"
 			(at 53.34 125.73 0)
 			(effects
 				(font
@@ -17122,15 +17113,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C25804"
-			(at 45.72 107.95 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 45.72 107.95 90)
 			(effects
@@ -17150,6 +17132,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 45.72 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25804"
 			(at 45.72 107.95 90)
 			(effects
 				(font
@@ -17225,15 +17216,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C32346"
-			(at 100.33 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Seiko Epson"
 			(at 100.33 24.13 0)
 			(effects
@@ -17253,6 +17235,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 100.33 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C32346"
 			(at 100.33 24.13 0)
 			(effects
 				(font
@@ -17397,15 +17388,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C1547"
-			(at 74.93 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Guangdong Fenghua Advanced Tech (FH)"
 			(at 74.93 29.21 0)
 			(effects
@@ -17425,6 +17407,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 74.93 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C1547"
 			(at 74.93 29.21 0)
 			(effects
 				(font
@@ -17500,15 +17491,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23186"
-			(at 264.16 127 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 264.16 127 90)
 			(effects
@@ -17528,6 +17510,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 264.16 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 264.16 127 90)
 			(effects
 				(font
@@ -17605,15 +17596,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C41375116"
-			(at 34.29 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Hongjiacheng "
 			(at 34.29 107.95 0)
 			(effects
@@ -17633,6 +17615,15 @@
 			)
 		)
 		(property "Basic" "P"
+			(at 34.29 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C41375116"
 			(at 34.29 107.95 0)
 			(effects
 				(font
@@ -17856,15 +17847,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
-			(at 267.97 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" ""
 			(at 267.97 99.06 0)
 			(effects
@@ -18001,15 +17983,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23186"
-			(at 264.16 129.54 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 264.16 129.54 90)
 			(effects
@@ -18029,6 +18002,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 264.16 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 264.16 129.54 90)
 			(effects
 				(font
@@ -18104,15 +18086,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C25804"
-			(at 36.83 97.79 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 36.83 97.79 90)
 			(effects
@@ -18132,6 +18105,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 36.83 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25804"
 			(at 36.83 97.79 90)
 			(effects
 				(font
@@ -18276,15 +18258,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
-			(at 144.78 107.95 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" ""
 			(at 144.78 107.95 90)
 			(effects
@@ -18382,15 +18355,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C9864"
-			(at 118.11 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Texas Instruments "
 			(at 118.11 173.99 0)
 			(effects
@@ -18410,6 +18374,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 118.11 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C9864"
 			(at 118.11 173.99 0)
 			(effects
 				(font
@@ -18572,15 +18545,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C31850"
-			(at 138.43 111.76 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 138.43 111.76 90)
 			(effects
@@ -18600,6 +18564,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 138.43 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C31850"
 			(at 138.43 111.76 90)
 			(effects
 				(font
@@ -18668,15 +18641,6 @@
 		)
 		(property "Description" "Resistor"
 			(at 100.33 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part Number" ""
-			(at 100.33 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18912,15 +18876,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C88374"
-			(at 153.67 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Hirose (HRS)"
 			(at 153.67 60.96 0)
 			(effects
@@ -18940,6 +18895,15 @@
 			)
 		)
 		(property "Basic" "X"
+			(at 153.67 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C88374"
 			(at 153.67 60.96 0)
 			(effects
 				(font
@@ -19016,15 +18980,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C21190"
-			(at 121.92 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 121.92 92.71 0)
 			(effects
@@ -19044,6 +18999,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 121.92 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C21190"
 			(at 121.92 92.71 0)
 			(effects
 				(font
@@ -19244,15 +19208,6 @@
 		)
 		(property "Description" "Jumper, 2-pole, small symbol, open"
 			(at 161.29 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part Number" ""
-			(at 161.29 165.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19491,15 +19446,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C307331"
-			(at 210.82 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 210.82 30.48 0)
 			(effects
@@ -19519,6 +19465,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 210.82 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C307331"
 			(at 210.82 30.48 0)
 			(effects
 				(font
@@ -19661,15 +19616,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23186"
-			(at 118.11 53.34 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 118.11 53.34 90)
 			(effects
@@ -19689,6 +19635,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 118.11 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 118.11 53.34 90)
 			(effects
 				(font
@@ -19898,15 +19853,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C147768"
-			(at 152.4 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Panasonic"
 			(at 152.4 176.53 0)
 			(effects
@@ -19926,6 +19872,15 @@
 			)
 		)
 		(property "Basic" "X"
+			(at 152.4 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C147768"
 			(at 152.4 176.53 0)
 			(effects
 				(font
@@ -20010,15 +19965,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C2297"
-			(at 59.69 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Hubei KENTO Elec "
 			(at 59.69 163.83 0)
 			(effects
@@ -20038,6 +19984,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 59.69 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2297"
 			(at 59.69 163.83 0)
 			(effects
 				(font
@@ -20180,15 +20135,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C1547"
-			(at 64.77 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Guangdong Fenghua Advanced Tech (FH)"
 			(at 64.77 29.21 0)
 			(effects
@@ -20208,6 +20154,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 64.77 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C1547"
 			(at 64.77 29.21 0)
 			(effects
 				(font
@@ -20284,15 +20239,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23241"
-			(at 172.72 104.14 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 172.72 104.14 90)
 			(effects
@@ -20312,6 +20258,15 @@
 			)
 		)
 		(property "Basic" "P"
+			(at 172.72 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23241"
 			(at 172.72 104.14 90)
 			(effects
 				(font
@@ -20389,15 +20344,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C307331"
-			(at 231.14 38.1 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 231.14 38.1 90)
 			(effects
@@ -20417,6 +20363,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 231.14 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C307331"
 			(at 231.14 38.1 90)
 			(effects
 				(font
@@ -20485,15 +20440,6 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 27.94 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part Number" ""
 			(at 27.94 21.59 0)
 			(effects
 				(font
@@ -20605,15 +20551,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C2290"
-			(at 274.32 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Hubei KENTO Elec "
 			(at 274.32 129.54 0)
 			(effects
@@ -20633,6 +20570,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 274.32 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2290"
 			(at 274.32 129.54 0)
 			(effects
 				(font
@@ -20717,15 +20663,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C2297"
-			(at 274.32 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Hubei KENTO Elec "
 			(at 274.32 127 0)
 			(effects
@@ -20745,6 +20682,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 274.32 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2297"
 			(at 274.32 127 0)
 			(effects
 				(font
@@ -20886,15 +20832,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23186"
-			(at 172.72 96.52 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 172.72 96.52 90)
 			(effects
@@ -20914,6 +20851,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 172.72 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 172.72 96.52 90)
 			(effects
 				(font
@@ -21059,15 +21005,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C7519"
-			(at 41.91 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "STMicroelectronics"
 			(at 41.91 63.5 0)
 			(effects
@@ -21087,6 +21024,15 @@
 			)
 		)
 		(property "Basic" "X"
+			(at 41.91 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C7519"
 			(at 41.91 63.5 0)
 			(effects
 				(font
@@ -21176,15 +21122,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C25819"
-			(at 133.35 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 133.35 106.68 0)
 			(effects
@@ -21204,6 +21141,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 133.35 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25819"
 			(at 133.35 106.68 0)
 			(effects
 				(font
@@ -21282,15 +21228,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23162"
-			(at 161.29 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 161.29 184.15 0)
 			(effects
@@ -21310,6 +21247,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 161.29 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23162"
 			(at 161.29 184.15 0)
 			(effects
 				(font
@@ -21389,15 +21335,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C22452"
-			(at 137.16 179.07 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Microdiode Semiconductor (MDD)"
 			(at 137.16 179.07 90)
 			(effects
@@ -21417,6 +21354,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 137.16 179.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C22452"
 			(at 137.16 179.07 90)
 			(effects
 				(font
@@ -21493,15 +21439,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23241"
-			(at 172.72 106.68 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 172.72 106.68 90)
 			(effects
@@ -21521,6 +21458,15 @@
 			)
 		)
 		(property "Basic" "P"
+			(at 172.72 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23241"
 			(at 172.72 106.68 90)
 			(effects
 				(font
@@ -21599,15 +21545,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C15195"
-			(at 233.68 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 233.68 48.26 0)
 			(effects
@@ -21627,6 +21564,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 233.68 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15195"
 			(at 233.68 48.26 0)
 			(effects
 				(font
@@ -21704,15 +21650,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C307331"
-			(at 209.55 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 209.55 46.99 0)
 			(effects
@@ -21732,6 +21669,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 209.55 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C307331"
 			(at 209.55 46.99 0)
 			(effects
 				(font
@@ -21873,15 +21819,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23186"
-			(at 48.26 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 48.26 130.81 0)
 			(effects
@@ -21901,6 +21838,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 48.26 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 48.26 130.81 0)
 			(effects
 				(font
@@ -22109,15 +22055,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23186"
-			(at 52.07 55.88 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 52.07 55.88 90)
 			(effects
@@ -22137,6 +22074,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 52.07 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 52.07 55.88 90)
 			(effects
 				(font
@@ -22212,15 +22158,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23186"
-			(at 64.77 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 64.77 168.91 0)
 			(effects
@@ -22240,6 +22177,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 64.77 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 64.77 168.91 0)
 			(effects
 				(font
@@ -22318,15 +22264,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C12891"
-			(at 27.94 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 27.94 179.07 0)
 			(effects
@@ -22346,6 +22283,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 27.94 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C12891"
 			(at 27.94 179.07 0)
 			(effects
 				(font
@@ -22424,15 +22370,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C12891"
-			(at 64.77 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 64.77 179.07 0)
 			(effects
@@ -22452,6 +22389,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 64.77 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C12891"
 			(at 64.77 179.07 0)
 			(effects
 				(font
@@ -22529,15 +22475,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C41375116"
-			(at 48.26 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Hongjiacheng "
 			(at 48.26 97.79 0)
 			(effects
@@ -22557,6 +22494,15 @@
 			)
 		)
 		(property "Basic" "P"
+			(at 48.26 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C41375116"
 			(at 48.26 97.79 0)
 			(effects
 				(font
@@ -22646,15 +22592,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C76899"
-			(at 162.56 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Murata"
 			(at 162.56 67.31 0)
 			(effects
@@ -22674,6 +22611,15 @@
 			)
 		)
 		(property "Basic" "X"
+			(at 162.56 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C76899"
 			(at 162.56 67.31 0)
 			(effects
 				(font
@@ -22750,15 +22696,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C10150"
-			(at 147.32 168.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Shun Xiang Nuo Elec (SXN)"
 			(at 147.32 168.91 90)
 			(effects
@@ -22778,6 +22715,15 @@
 			)
 		)
 		(property "Basic" "X"
+			(at 147.32 168.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C10150"
 			(at 147.32 168.91 90)
 			(effects
 				(font
@@ -22922,15 +22868,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C1554"
-			(at 107.95 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Guangdong Fenghua Advanced Tech (FH)"
 			(at 107.95 29.21 0)
 			(effects
@@ -22950,6 +22887,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 107.95 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C1554"
 			(at 107.95 29.21 0)
 			(effects
 				(font
@@ -23095,15 +23041,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C25804"
-			(at 161.29 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 161.29 173.99 0)
 			(effects
@@ -23123,6 +23060,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 161.29 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25804"
 			(at 161.29 173.99 0)
 			(effects
 				(font
@@ -23198,15 +23144,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C167472"
-			(at 59.69 24.13 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Murata"
 			(at 59.69 24.13 90)
 			(effects
@@ -23226,6 +23163,15 @@
 			)
 		)
 		(property "Basic" "X"
+			(at 59.69 24.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C167472"
 			(at 59.69 24.13 90)
 			(effects
 				(font
@@ -23302,15 +23248,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23241"
-			(at 172.72 109.22 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 172.72 109.22 90)
 			(effects
@@ -23330,6 +23267,15 @@
 			)
 		)
 		(property "Basic" "P"
+			(at 172.72 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23241"
 			(at 172.72 109.22 90)
 			(effects
 				(font
@@ -23405,15 +23351,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23186"
-			(at 264.16 132.08 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 264.16 132.08 90)
 			(effects
@@ -23433,6 +23370,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 264.16 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 264.16 132.08 90)
 			(effects
 				(font
@@ -23509,15 +23455,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C7512"
-			(at 180.34 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Texas Instruments"
 			(at 180.34 127 0)
 			(effects
@@ -23537,6 +23474,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 180.34 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C7512"
 			(at 180.34 127 0)
 			(effects
 				(font
@@ -23654,15 +23600,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C7206306"
-			(at 69.85 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "TROQ"
 			(at 69.85 24.13 0)
 			(effects
@@ -23682,6 +23619,15 @@
 			)
 		)
 		(property "Basic" "X"
+			(at 69.85 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C7206306"
 			(at 69.85 24.13 0)
 			(effects
 				(font
@@ -23763,15 +23709,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23186"
-			(at 172.72 99.06 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 172.72 99.06 90)
 			(effects
@@ -23791,6 +23728,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 172.72 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 172.72 99.06 90)
 			(effects
 				(font
@@ -23934,15 +23880,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C1554"
-			(at 92.71 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Guangdong Fenghua Advanced Tech (FH)"
 			(at 92.71 29.21 0)
 			(effects
@@ -23962,6 +23899,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 92.71 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C1554"
 			(at 92.71 29.21 0)
 			(effects
 				(font
@@ -24105,15 +24051,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C307331"
-			(at 200.66 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 200.66 30.48 0)
 			(effects
@@ -24133,6 +24070,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 200.66 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C307331"
 			(at 200.66 30.48 0)
 			(effects
 				(font
@@ -24210,15 +24156,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C440198"
-			(at 100.33 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Murata"
 			(at 100.33 175.26 0)
 			(effects
@@ -24238,6 +24175,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 100.33 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C440198"
 			(at 100.33 175.26 0)
 			(effects
 				(font
@@ -24382,15 +24328,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C15525"
-			(at 36.83 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 36.83 50.8 0)
 			(effects
@@ -24410,6 +24347,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 36.83 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15525"
 			(at 36.83 50.8 0)
 			(effects
 				(font
@@ -24487,15 +24433,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C307331"
-			(at 228.6 25.4 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 228.6 25.4 90)
 			(effects
@@ -24515,6 +24452,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 228.6 25.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C307331"
 			(at 228.6 25.4 90)
 			(effects
 				(font
@@ -24723,15 +24669,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C412269"
-			(at 205.74 25.4 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Murata"
 			(at 205.74 25.4 90)
 			(effects
@@ -24751,6 +24688,15 @@
 			)
 		)
 		(property "Basic" "X"
+			(at 205.74 25.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C412269"
 			(at 205.74 25.4 90)
 			(effects
 				(font
@@ -24829,15 +24775,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C52923"
-			(at 66.04 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 66.04 106.68 0)
 			(effects
@@ -24857,6 +24794,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 66.04 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C52923"
 			(at 66.04 106.68 0)
 			(effects
 				(font
@@ -24925,15 +24871,6 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 90.17 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part Number" ""
 			(at 90.17 129.54 0)
 			(effects
 				(font
@@ -25039,15 +24976,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C969151"
-			(at 106.68 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "SKYWORKS/SILICON LABS "
 			(at 106.68 121.92 0)
 			(effects
@@ -25067,6 +24995,15 @@
 			)
 		)
 		(property "Basic" "X"
+			(at 106.68 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C969151"
 			(at 106.68 121.92 0)
 			(effects
 				(font
@@ -25278,15 +25215,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
-			(at 135.89 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" ""
 			(at 135.89 29.21 0)
 			(effects
@@ -25393,15 +25321,6 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 162.56 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part Number" ""
 			(at 162.56 124.46 0)
 			(effects
 				(font
@@ -25518,15 +25437,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C15525"
-			(at 180.34 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 180.34 30.48 0)
 			(effects
@@ -25546,6 +25456,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 180.34 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15525"
 			(at 180.34 30.48 0)
 			(effects
 				(font
@@ -25697,15 +25616,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" " C2286"
-			(at 274.32 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Hubei KENTO Elec "
 			(at 274.32 132.08 0)
 			(effects
@@ -25725,6 +25635,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 274.32 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" " C2286"
 			(at 274.32 132.08 0)
 			(effects
 				(font
@@ -25800,15 +25719,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23186"
-			(at 172.72 93.98 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 172.72 93.98 90)
 			(effects
@@ -25828,6 +25738,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 172.72 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 172.72 93.98 90)
 			(effects
 				(font
@@ -25969,15 +25888,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C21189"
-			(at 40.64 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 40.64 114.3 90)
 			(effects
@@ -25997,6 +25907,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 40.64 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C21189"
 			(at 40.64 114.3 90)
 			(effects
 				(font
@@ -26205,15 +26124,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C25804"
-			(at 66.04 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 66.04 93.98 0)
 			(effects
@@ -26233,6 +26143,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 66.04 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25804"
 			(at 66.04 93.98 0)
 			(effects
 				(font
@@ -26374,15 +26293,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C15525"
-			(at 97.79 91.44 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 97.79 91.44 90)
 			(effects
@@ -26402,6 +26312,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 97.79 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15525"
 			(at 97.79 91.44 90)
 			(effects
 				(font
@@ -26479,15 +26398,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C52923"
-			(at 199.39 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 199.39 46.99 0)
 			(effects
@@ -26507,6 +26417,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 199.39 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C52923"
 			(at 199.39 46.99 0)
 			(effects
 				(font
@@ -26584,15 +26503,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C3013940"
-			(at 226.06 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Espressif"
 			(at 226.06 96.52 0)
 			(effects
@@ -26612,6 +26522,15 @@
 			)
 		)
 		(property "Basic" "X"
+			(at 226.06 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C3013940"
 			(at 226.06 96.52 0)
 			(effects
 				(font
@@ -27052,15 +26971,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23186"
-			(at 52.07 53.34 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 52.07 53.34 90)
 			(effects
@@ -27080,6 +26990,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 52.07 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23186"
 			(at 52.07 53.34 90)
 			(effects
 				(font
@@ -27150,15 +27069,6 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 163.83 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part Number" ""
 			(at 163.83 93.98 0)
 			(effects
 				(font
@@ -27336,15 +27246,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C15525"
-			(at 74.93 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 74.93 140.97 0)
 			(effects
@@ -27364,6 +27265,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 74.93 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15525"
 			(at 74.93 140.97 0)
 			(effects
 				(font
@@ -27445,15 +27355,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C7519"
-			(at 107.95 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "STMicroelectronics"
 			(at 107.95 63.5 0)
 			(effects
@@ -27473,6 +27374,15 @@
 			)
 		)
 		(property "Basic" "X"
+			(at 107.95 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C7519"
 			(at 107.95 63.5 0)
 			(effects
 				(font
@@ -27826,15 +27736,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C22452"
-			(at 41.91 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Microdiode Semiconductor (MDD)"
 			(at 41.91 44.45 0)
 			(effects
@@ -27854,6 +27755,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 41.91 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C22452"
 			(at 41.91 44.45 0)
 			(effects
 				(font
@@ -27986,15 +27896,6 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 85.09 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part Number" ""
 			(at 85.09 171.45 0)
 			(effects
 				(font
@@ -28166,15 +28067,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
-			(at 95.25 175.26 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" ""
 			(at 95.25 175.26 90)
 			(effects
@@ -28331,15 +28223,6 @@
 		)
 		(property "Description" "Jumper, 3-pole, pins 1+2 closed/bridged"
 			(at 63.5 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part Number" ""
-			(at 63.5 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28643,15 +28526,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C22452"
-			(at 107.95 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Microdiode Semiconductor (MDD)"
 			(at 107.95 44.45 0)
 			(effects
@@ -28671,6 +28545,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 107.95 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C22452"
 			(at 107.95 44.45 0)
 			(effects
 				(font
@@ -28746,15 +28629,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C23179"
-			(at 264.16 60.96 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Uniroyal Elec"
 			(at 264.16 60.96 90)
 			(effects
@@ -28774,6 +28648,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 264.16 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C23179"
 			(at 264.16 60.96 90)
 			(effects
 				(font
@@ -29110,15 +28993,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C412269"
-			(at 168.91 60.96 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Murata"
 			(at 168.91 60.96 90)
 			(effects
@@ -29138,6 +29012,15 @@
 			)
 		)
 		(property "Basic" "X"
+			(at 168.91 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C412269"
 			(at 168.91 60.96 90)
 			(effects
 				(font
@@ -29214,15 +29097,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" " C5446"
-			(at 38.1 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Torex Semicon "
 			(at 38.1 135.89 0)
 			(effects
@@ -29242,6 +29116,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 38.1 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" " C5446"
 			(at 38.1 135.89 0)
 			(effects
 				(font
@@ -29390,15 +29273,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" ""
-			(at 104.14 185.42 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" ""
 			(at 104.14 185.42 90)
 			(effects
@@ -29493,15 +29367,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C52923"
-			(at 190.5 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 190.5 30.48 0)
 			(effects
@@ -29521,6 +29386,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 190.5 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C52923"
 			(at 190.5 30.48 0)
 			(effects
 				(font
@@ -29599,15 +29473,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C52923"
-			(at 245.11 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 245.11 48.26 0)
 			(effects
@@ -29627,6 +29492,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 245.11 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C52923"
 			(at 245.11 48.26 0)
 			(effects
 				(font
@@ -29768,15 +29642,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C6186"
-			(at 46.99 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Advanced Monolithic Systems "
 			(at 46.99 173.99 0)
 			(effects
@@ -29796,6 +29661,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 46.99 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C6186"
 			(at 46.99 173.99 0)
 			(effects
 				(font
@@ -29876,15 +29750,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C15849"
-			(at 22.86 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 22.86 140.97 0)
 			(effects
@@ -29904,6 +29769,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 22.86 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15849"
 			(at 22.86 140.97 0)
 			(effects
 				(font
@@ -29980,15 +29854,6 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Number" "C1710"
-			(at 135.89 168.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics "
 			(at 135.89 168.91 90)
 			(effects
@@ -30008,6 +29873,15 @@
 			)
 		)
 		(property "Basic" "Y"
+			(at 135.89 168.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C1710"
 			(at 135.89 168.91 90)
 			(effects
 				(font
