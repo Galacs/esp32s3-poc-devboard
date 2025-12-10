@@ -5,9 +5,9 @@ ESP32-S3 based PoC board made to test step-down power supply design, 24v level s
 ## IC List
 
 - ESP32-S3Fx (main MCU)
-- CP2102N (USB to UART)
+- CP2102 (USB to UART)
 - TPS5430 (step-down converter)
-- AMS117 & XC6206 (3v3 LDOs)
+- AP2112K & XC6206 (3v3 LDOs)
 - ULN2003A (transistor array)
 
 ## Top preview
