@@ -7,7 +7,7 @@
 	(title_block
 		(title "ESP32-S3 POC/Devboard")
 		(date "2025-08-11")
-		(rev "01")
+		(rev "02")
 		(company "Rémi Ait-Younes")
 	)
 	(lib_symbols

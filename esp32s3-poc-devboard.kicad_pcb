@@ -10,7 +10,7 @@
 	(title_block
 		(title "ESP32-S3 POC/Devboard")
 		(date "2025-08-15")
-		(rev "01")
+		(rev "02")
 		(company "Rémi Ait-Younes")
 	)
 	(layers
@@ -37622,7 +37622,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "Rev 01"
+	(gr_text "Rev 02"
 		(at 153.03 103 0)
 		(layer "B.SilkS")
 		(uuid "8509f853-0186-4a6c-a20c-222d51ce2ee4")
