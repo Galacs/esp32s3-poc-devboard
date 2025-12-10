@@ -9786,7 +9786,7 @@
 		)
 		(uuid fb2234a3-2024-41c1-a310-26294aac4676)
 	)
-	(text "AMS117 3.3v"
+	(text "AP2112K 3.3v"
 		(exclude_from_sim no)
 		(at 28.194 161.544 0)
 		(effects
