@@ -13952,7 +13952,7 @@
 		(descr "SOT, 3 Pin (JEDEC MO-178 inferred 3-pin variant https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U3"
-			(at 0.75 -2.55 0)
+			(at 2.185 -1.5 0)
 			(layer "F.SilkS")
 			(uuid "36a86367-b7b7-4ec6-9482-8a491f060b57")
 			(effects
@@ -15164,7 +15164,7 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "JP2"
-			(at -2.6 0.24 0)
+			(at 0.25 8.04 0)
 			(layer "F.SilkS")
 			(uuid "aac1f5a9-232b-4a5d-b21b-d96e17cda29e")
 			(effects
@@ -37184,6 +37184,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "AMS"
+		(at 182.355955 94.236487 -0)
+		(layer "F.SilkS" knockout)
+		(uuid "1c931cba-d38e-4393-a75a-63ff788a3032")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "ESP USB"
 		(at 124.5 86.5 0)
 		(layer "F.SilkS" knockout)
@@ -37405,6 +37418,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "XC"
+		(at 188 94.25 0)
+		(layer "F.SilkS" knockout)
+		(uuid "c65f0d00-5986-46bc-b3dc-96ca3c4f1634")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "11"
 		(at 141.59 67.2 90)
 		(layer "F.SilkS" knockout)
@@ -37509,6 +37535,45 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "12"
+		(at 139.2 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "1bc6ba07-0940-4b71-bd7d-5659fde09563")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "USB TO UART"
+		(at 142.5 97.5 0)
+		(layer "B.SilkS")
+		(uuid "1dfdcc54-974d-4209-bc0c-6182c7658eae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "11"
+		(at 141.8 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "24e9b33b-560a-40f7-9e29-75573e0d2a9d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "ESP32-S3 POC/Devboard"
 		(at 177.22 101 0)
 		(layer "B.SilkS")
@@ -37521,8 +37586,21 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "40"
-		(at 183 116.8 0)
+	(gr_text "VBUS"
+		(at 134.25 103 270)
+		(layer "B.SilkS" knockout)
+		(uuid "353f1043-db8c-419d-9798-7fa35ccc7768")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "2"
+		(at 182.5 116.6 0)
 		(layer "B.SilkS" knockout)
 		(uuid "41e8168e-76d3-49c1-b0c3-708e041595a5")
 		(effects
@@ -37572,6 +37650,58 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "G"
+		(at 126.4 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "4a5dbf3e-585b-4c4f-93fd-7404be536c19")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "7"
+		(at 152 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "4c0bd011-587a-41c3-8e76-1c2c41a9787a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "G"
+		(at 159.6 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "4dac0562-9423-4b80-a0a1-87138a301881")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "5"
+		(at 157 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "4fba4473-7df3-420e-aff8-ffc2ae479652")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "35"
 		(at 160.8 116.8 0)
 		(layer "B.SilkS" knockout)
@@ -37580,6 +37710,32 @@
 			(font
 				(size 1.5 1.5)
 				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "13"
+		(at 136.6 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "5506b53c-a9d9-4efd-a346-b0f2c06aaaa7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "8"
+		(at 149.4 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "5cc1a856-a9a6-43f0-b06d-9411167de9d6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
 				(bold yes)
 			)
 			(justify left bottom mirror)
@@ -37597,8 +37753,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "39"
-		(at 178.2 116.8 0)
+	(gr_text "1"
+		(at 177.5 116.6 0)
 		(layer "B.SilkS" knockout)
 		(uuid "73f47ae7-f5af-4198-9ccf-5051cd1088fc")
 		(effects
@@ -37622,6 +37778,19 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "6"
+		(at 154.4 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "81cad4d0-fb34-4246-875f-f05c65ef15b9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "Rev 02"
 		(at 153.03 103 0)
 		(layer "B.SilkS")
@@ -37634,8 +37803,34 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "41"
-		(at 188.2 116.6 0)
+	(gr_text "9"
+		(at 146.8 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "8a452ed0-b846-4eab-a264-541c3a61d4db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "+5V SMPS"
+		(at 177.5 88 0)
+		(layer "B.SilkS" knockout)
+		(uuid "8bb7cdf7-e074-43ee-8ca4-40c4e7de7c76")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "3"
+		(at 187.5 116.6 0)
 		(layer "B.SilkS" knockout)
 		(uuid "8c7cf1f9-1b36-4e8d-93d6-2d9f0a55ad4d")
 		(effects
@@ -37673,8 +37868,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "42"
-		(at 193 116.6 0)
+	(gr_text "4"
+		(at 192.5 116.6 0)
 		(layer "B.SilkS" knockout)
 		(uuid "91718ef5-b9b3-4620-a67b-af0f5f96c620")
 		(effects
@@ -37699,6 +37894,84 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "G"
+		(at 164.6 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "ad6d4128-e85f-4545-a744-1410a5e2bab5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "G"
+		(at 129 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "b3a79b40-9855-4a3e-9cb4-7982da31148e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "G"
+		(at 131.6 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "c88db29b-307d-4694-a301-c2e83e4de76b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "LDO select"
+		(at 190.5 94.25 0)
+		(layer "B.SilkS")
+		(uuid "d2154a02-9fcb-4da4-bc6c-eae39788a8d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "10"
+		(at 144.2 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "dfd80391-1254-4767-bc55-c89b96470756")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "G"
+		(at 162.2 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "e432419c-14ee-4a28-b482-6ee0b6e58f7d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "34"
 		(at 156 116.8 0)
 		(layer "B.SilkS" knockout)
@@ -37707,6 +37980,19 @@
 			(font
 				(size 1.5 1.5)
 				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "14"
+		(at 134 70.75 90)
+		(layer "B.SilkS" knockout)
+		(uuid "ef3495a3-74c8-4c8c-b61c-ba8e619c1f2f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
 				(bold yes)
 			)
 			(justify left bottom mirror)
