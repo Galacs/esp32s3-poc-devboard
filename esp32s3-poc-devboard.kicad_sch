@@ -5101,8 +5101,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at -30.48 43.18 0)
+			(property "Reference" "U1"
+				(at 8.382 -39.878 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -5110,8 +5110,8 @@
 					(justify left)
 				)
 			)
-			(property "Value" "ESP32-S3"
-				(at -30.48 40.64 0)
+			(property "Value" "ESP32-S3FH4R2"
+				(at 8.382 -42.418 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -5138,6 +5138,42 @@
 				)
 			)
 			(property "Description" "ESP32-S3 is a low-power MCU-based system-on-chip (SoC) that supports 2.4 GHz Wi-Fi and Bluetooth® Low Energy (Bluetooth LE). It consists of high-performance dual-core microprocessor (Xtensa® 32-bit LX7), a low power coprocessor, a Wi-Fi baseband, a Bluetooth LE baseband, RF module, and peripherals."
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Espressif"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part Number" "ESP32-S3FH4R2"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Basic" "X"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "JLCPCB Part #" "C3013940"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5317,14 +5353,14 @@
 				(pin bidirectional line
 					(at -33.02 5.08 0)
 					(length 2.54)
-					(name "MTCK/JTAG/GPIO39"
+					(name "GPIO1/ADC1_CH0"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "44"
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5335,14 +5371,14 @@
 				(pin bidirectional line
 					(at -33.02 2.54 0)
 					(length 2.54)
-					(name "MTDO/JTAG/GPIO40"
+					(name "GPIO2/ADC1_CH1"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "45"
+					(number "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5353,14 +5389,14 @@
 				(pin bidirectional line
 					(at -33.02 0 0)
 					(length 2.54)
-					(name "MTDI/JTAG/GPIO41"
+					(name "GPIO3/ADC1_CH2"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "47"
+					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5371,14 +5407,14 @@
 				(pin bidirectional line
 					(at -33.02 -2.54 0)
 					(length 2.54)
-					(name "MTMS/JTAG/GPIO42"
+					(name "GPIO4/ADC1_CH3"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "48"
+					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5841,14 +5877,14 @@
 				(pin bidirectional line
 					(at 33.02 17.78 180)
 					(length 2.54)
-					(name "GPIO1/ADC1_CH0"
+					(name "MTCK/JTAG/GPIO39"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "6"
+					(number "44"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5859,14 +5895,14 @@
 				(pin bidirectional line
 					(at 33.02 15.24 180)
 					(length 2.54)
-					(name "GPIO2/ADC1_CH1"
+					(name "MTDO/JTAG/GPIO40"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "7"
+					(number "45"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5877,14 +5913,14 @@
 				(pin bidirectional line
 					(at 33.02 12.7 180)
 					(length 2.54)
-					(name "GPIO3/ADC1_CH2"
+					(name "MTDI/JTAG/GPIO41"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "8"
+					(number "47"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5895,14 +5931,14 @@
 				(pin bidirectional line
 					(at 33.02 10.16 180)
 					(length 2.54)
-					(name "GPIO4/ADC1_CH3"
+					(name "MTMS/JTAG/GPIO42"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "9"
+					(number "48"
 						(effects
 							(font
 								(size 1.27 1.27)
