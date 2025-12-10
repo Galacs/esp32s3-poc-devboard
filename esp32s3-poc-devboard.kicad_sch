@@ -1974,8 +1974,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J3"
-				(at 12.954 -15.24 0)
+			(property "Reference" "J4"
+				(at 13.716 -14.224 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1993,7 +1993,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 				(at 3.81 0 0)
 				(effects
 					(font
@@ -2012,6 +2012,42 @@
 				)
 			)
 			(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Shou HAN"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part Number" "TYPE-C16PIN"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Basic" "X"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "JLCPCB Part #" "C393939"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2319,64 +2355,7 @@
 				)
 			)
 			(symbol "USB_C_Receptacle_USB2.0_14P_1_1"
-				(pin passive line
-					(at 0 -22.86 90)
-					(length 5.08)
-					(hide yes)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -22.86 90)
-					(length 5.08)
-					(hide yes)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 -22.86 90)
-					(length 5.08)
-					(hide yes)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
+				(pin power_out line
 					(at 12.7 15.24 180)
 					(length 2.54)
 					(name "VBUS"
@@ -2387,6 +2366,63 @@
 						)
 					)
 					(number "A4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 15.24 180)
+					(length 2.54)
+					(hide yes)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 15.24 180)
+					(length 2.54)
+					(hide yes)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 15.24 180)
+					(length 2.54)
+					(hide yes)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2521,6 +2557,63 @@
 					)
 				)
 				(pin passive line
+					(at 12.7 -10.16 180)
+					(length 2.54)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -10.16 180)
+					(length 2.54)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -10.16 180)
+					(length 2.54)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
 					(at 12.7 -12.7 180)
 					(length 2.54)
 					(name "SHIELD"
@@ -2531,63 +2624,6 @@
 						)
 					)
 					(number "S1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 15.24 180)
-					(length 5.08)
-					(hide yes)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 15.24 180)
-					(length 5.08)
-					(hide yes)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 15.24 180)
-					(length 5.08)
-					(hide yes)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -15307,152 +15343,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:USB_C_Receptacle_USB2.0_14P")
-		(at 135.89 63.5 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0129cbd9-fd1c-4bb8-87a9-6f3a6c592641")
-		(property "Reference" "J4"
-			(at 122.174 77.724 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "USB_C_Receptacle_USB2.0_14P"
-			(at 116.078 43.688 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
-			(at 132.08 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 132.08 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
-			(at 135.89 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Shou HAN"
-			(at 135.89 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "TYPE-C16PIN"
-			(at 135.89 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Basic" "X"
-			(at 135.89 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part #" "C393939"
-			(at 135.89 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "A7"
-			(uuid "d47a0edc-4f3e-4158-9be9-d9bb5e040d4b")
-		)
-		(pin "B4"
-			(uuid "b7a36d50-e52c-4991-a552-a00e719f3852")
-		)
-		(pin "B6"
-			(uuid "3ab7f914-beff-45ad-89f6-a922a62c7893")
-		)
-		(pin "B5"
-			(uuid "cb2026da-3504-4434-95d0-a59b54784c40")
-		)
-		(pin "A9"
-			(uuid "39ed566e-bf52-4780-bb86-726c98af98c5")
-		)
-		(pin "A5"
-			(uuid "ac012394-2f7a-4484-909e-a79706c3f68c")
-		)
-		(pin "A12"
-			(uuid "84e02cad-d53b-43bb-9584-8229806fde22")
-		)
-		(pin "A1"
-			(uuid "724a8f4a-a19f-4820-b41b-1d8b355ce1fd")
-		)
-		(pin "S1"
-			(uuid "a108c9cd-63d2-48df-b3cb-908bdb25b706")
-		)
-		(pin "B9"
-			(uuid "018c2daf-975c-4cc5-bff5-347beb6b6c55")
-		)
-		(pin "B1"
-			(uuid "d3248d68-7cae-4423-959d-401c6994ee8a")
-		)
-		(pin "B12"
-			(uuid "3cb98503-da5e-406b-9136-5946a13fe114")
-		)
-		(pin "A4"
-			(uuid "378811c8-659f-49dc-bc9c-a2eaff0a0228")
-		)
-		(pin "B7"
-			(uuid "88ff523a-9608-4343-8c72-6dcd32b77cb0")
-		)
-		(pin "A6"
-			(uuid "36cc4406-9e8f-410b-b8a7-efea903889a8")
-		)
-		(instances
-			(project "esp32s3-poc-devboard"
-				(path "/a6beb550-83d0-4746-bc61-cde76b7466a3"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 116.84 73.66 0)
 		(unit 1)
@@ -16750,152 +16640,6 @@
 			(project "esp32s3-poc-devboard"
 				(path "/a6beb550-83d0-4746-bc61-cde76b7466a3"
 					(reference "#FLG02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:USB_C_Receptacle_USB2.0_14P")
-		(at 69.85 63.5 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1e1fad22-500c-48e6-bc8c-4072b423541e")
-		(property "Reference" "J3"
-			(at 56.134 77.978 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "USB_C_Receptacle_USB2.0_14P"
-			(at 50.038 43.688 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
-			(at 66.04 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 66.04 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Shou HAN"
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "TYPE-C16PIN"
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Basic" "X"
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part #" "C393939"
-			(at 69.85 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "A7"
-			(uuid "85b8f3b1-ea29-4683-9b93-bedcb80d3ab8")
-		)
-		(pin "B4"
-			(uuid "b7377730-91d3-49f5-9a67-878479822227")
-		)
-		(pin "B6"
-			(uuid "c5a41000-9ee1-4fdf-b95f-d8ea14a80c21")
-		)
-		(pin "B5"
-			(uuid "4257dbb0-1739-4de2-aeb3-b272a52defad")
-		)
-		(pin "A9"
-			(uuid "f7a4293c-6f72-4552-9be5-99090597459e")
-		)
-		(pin "A5"
-			(uuid "0beefe27-36b4-4e3b-9e19-1e12d6b97f97")
-		)
-		(pin "A12"
-			(uuid "a94c4bc4-4c02-4fac-9570-42bf083d76bb")
-		)
-		(pin "A1"
-			(uuid "9c9e804d-12c4-4f7a-ba48-86340389f6dc")
-		)
-		(pin "S1"
-			(uuid "1a283a73-1e95-4300-95e7-191641adb445")
-		)
-		(pin "B9"
-			(uuid "1b0fdd9b-5604-4da2-8895-48b0c12a9a6c")
-		)
-		(pin "B1"
-			(uuid "8f486c2f-2925-4e39-b901-b3e57c476dd8")
-		)
-		(pin "B12"
-			(uuid "343597fc-98be-4bce-a5ff-adcab00873de")
-		)
-		(pin "A4"
-			(uuid "34691e25-fbb5-4e25-afbf-154b0071c592")
-		)
-		(pin "B7"
-			(uuid "cce9ac24-79db-4c83-810a-cc0d2c706187")
-		)
-		(pin "A6"
-			(uuid "c9a4873e-2323-4280-b22d-220adaa370ba")
-		)
-		(instances
-			(project "esp32s3-poc-devboard"
-				(path "/a6beb550-83d0-4746-bc61-cde76b7466a3"
-					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -20653,6 +20397,152 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:USB_C_Receptacle_USB2.0_14P")
+		(at 135.89 63.5 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "58ddaaa7-bf04-4b89-972c-92db49d0adcd")
+		(property "Reference" "J4"
+			(at 122.174 77.724 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "USB_C_Receptacle_USB2.0_14P"
+			(at 116.078 43.688 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
+			(at 132.08 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+			(at 132.08 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
+			(at 135.89 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Shou HAN"
+			(at 135.89 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "TYPE-C16PIN"
+			(at 135.89 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Basic" "X"
+			(at 135.89 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C393939"
+			(at 135.89 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A7"
+			(uuid "03956d17-8159-4101-8f7b-6eda89527248")
+		)
+		(pin "B4"
+			(uuid "8bac3e33-7271-4e59-a62e-bb4148476b3c")
+		)
+		(pin "B6"
+			(uuid "41c2c71e-07d1-45d9-89e9-4a2f1c6d6ea6")
+		)
+		(pin "B5"
+			(uuid "516c012b-c250-4032-a663-651723d56278")
+		)
+		(pin "A9"
+			(uuid "5c8dc5bf-d1c4-4a1f-acf2-64e7a3ba3150")
+		)
+		(pin "A5"
+			(uuid "47481f3a-d87f-4b2e-a69a-2cf3682b4ce9")
+		)
+		(pin "A12"
+			(uuid "f6a1d30a-4a79-42c3-9420-818b8a126395")
+		)
+		(pin "A1"
+			(uuid "e7ba7819-9031-4acf-9d7d-d2be3181a6d0")
+		)
+		(pin "S1"
+			(uuid "ab6a86a6-3b89-4def-9145-9b087dd134ef")
+		)
+		(pin "B9"
+			(uuid "093df54a-70fe-416e-8b1e-b8deba117b66")
+		)
+		(pin "B1"
+			(uuid "323855e9-9175-4a15-82c0-fc9b5a393960")
+		)
+		(pin "B12"
+			(uuid "ff9561f2-6946-46a8-a08f-fb5549984651")
+		)
+		(pin "A4"
+			(uuid "3ae57d8e-1a54-4a26-b3b6-0f595ad5c06b")
+		)
+		(pin "B7"
+			(uuid "26f1250d-dd67-4485-bc77-086c097ad9dc")
+		)
+		(pin "A6"
+			(uuid "7ddec586-606c-4a9e-9ffd-998564f7d807")
+		)
+		(instances
+			(project "esp32s3-poc-devboard"
+				(path "/a6beb550-83d0-4746-bc61-cde76b7466a3"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 64.77 34.29 0)
 		(unit 1)
@@ -22332,6 +22222,152 @@
 			(project "esp32s3-poc-devboard"
 				(path "/a6beb550-83d0-4746-bc61-cde76b7466a3"
 					(reference "C16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:USB_C_Receptacle_USB2.0_14P")
+		(at 69.85 63.5 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6c358405-c434-4fe8-968b-f7d7571da27d")
+		(property "Reference" "J3"
+			(at 56.134 77.724 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "USB_C_Receptacle_USB2.0_14P"
+			(at 50.038 43.688 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
+			(at 66.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+			(at 66.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
+			(at 69.85 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Shou HAN"
+			(at 69.85 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "TYPE-C16PIN"
+			(at 69.85 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Basic" "X"
+			(at 69.85 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C393939"
+			(at 69.85 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A7"
+			(uuid "63da0fb8-45db-4aa5-a0ef-df9bc2810710")
+		)
+		(pin "B4"
+			(uuid "f3fe4ffe-d390-4318-8b0f-ec41eec93311")
+		)
+		(pin "B6"
+			(uuid "825b982a-ee70-4265-b5be-e809fc5d9c06")
+		)
+		(pin "B5"
+			(uuid "9d36fe6f-0754-452d-81b8-7ca89682aee5")
+		)
+		(pin "A9"
+			(uuid "8505ad1b-05e3-4435-999f-b81ffc07a3ba")
+		)
+		(pin "A5"
+			(uuid "e56ed0cc-2e63-4fa0-8218-a64072a1d2f8")
+		)
+		(pin "A12"
+			(uuid "a8006f83-939f-4e0e-baf6-3082cded37c5")
+		)
+		(pin "A1"
+			(uuid "3c8cc841-813c-4d6f-9507-6741fac0c74d")
+		)
+		(pin "S1"
+			(uuid "37b5cea8-2626-436d-ac3a-70ddd7cf625b")
+		)
+		(pin "B9"
+			(uuid "04d035d3-8305-46e7-952f-48026d4c1792")
+		)
+		(pin "B1"
+			(uuid "61f77a66-630a-4543-8252-813068d2c798")
+		)
+		(pin "B12"
+			(uuid "6e6d5e6a-85ec-4dd5-bb51-25c880bd25f4")
+		)
+		(pin "A4"
+			(uuid "818a4471-b417-41e5-aaae-5af95d8f47fe")
+		)
+		(pin "B7"
+			(uuid "4c5f0084-98b0-4be4-9c9d-3155c1042202")
+		)
+		(pin "A6"
+			(uuid "b4b5b5a1-8e3e-47fe-b910-ad366b52647d")
+		)
+		(instances
+			(project "esp32s3-poc-devboard"
+				(path "/a6beb550-83d0-4746-bc61-cde76b7466a3"
+					(reference "J3")
 					(unit 1)
 				)
 			)
